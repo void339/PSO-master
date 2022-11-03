@@ -11,3 +11,5 @@ def func_transformed(X):
 X = np.random.uniform(low=[0, -1, 0.5], high=[1, 1, 1], size=(2, 3))
 print(X)
 print(func_transformed(X))
+
+print('a')
